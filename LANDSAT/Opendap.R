@@ -1,7 +1,5 @@
 library(ncdf4)
-library(RNetCDF)
 library(tidyverse)
-library(raster)
 library(tidync)
 xmin <- -93
 xmax <- -92.75
