@@ -6,7 +6,7 @@ xmax <- -92.75
 ymin <- 38.75
 ymax <- 39
 url <- "http://192.17.59.89:8080/thredds/dodsC/testAll/2013-05-131-0000009472-0000009472.nc"
-  
+#https://opendap.github.io/documentation/QuickStart.html  
 
 OpenDap_LANDSAT <- function(url, ymax, ymin, xmin, xmax) {
   
